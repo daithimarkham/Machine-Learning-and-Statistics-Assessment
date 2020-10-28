@@ -2,6 +2,10 @@
 
 Jupyter Notebook containing four assessments which we will be given over the duration of the semester. 
 
+### If you are having problems with Github not displaying the contents of the notebook. 
+
+Sometimes Github will not display the contents of the notebooks. If this happens, copy the url of the notebook page, and paste here: https://nbviewer.jupyter.org/ 
+
 ### Task 1. 
 
 - Write a Python function called sqrt2 that calculates and
