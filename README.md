@@ -1,4 +1,4 @@
-# Machine-Learning-and-Statistics-Assessment
+# Machine-Learning-and-Statistics-Assessments
 
 Jupyter Notebook containing four assessments which we will be given over the duration of the semester. 
 
