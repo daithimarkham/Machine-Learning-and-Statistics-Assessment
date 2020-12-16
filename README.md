@@ -1,6 +1,9 @@
+# David Markham
 # Machine-Learning-and-Statistics-Assessments
+# G.M.I.T.
+# Lecturer: Dr. Ian Mcloughlin 
 
-Jupyter Notebook containing four assessments which we will be given over the duration of the semester. 
+## Jupyter Notebook containing four assessments which we will be given over the duration of the semester. 
 
 ### If you are having problems with Github not displaying the contents of the notebook. 
 
@@ -36,4 +39,9 @@ about the difference between them. Then use numpy to perform a simulation
 demonstrating that the STDEV.S calculation is a better estimate for the standard
 deviation of a population when performed on a sample. Note that part of this task
 is to figure out the terminology in the previous sentence.
+
+### Task 4. 
+
+Use Scikit-Learn to apply k-means clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+
 
